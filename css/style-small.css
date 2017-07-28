@@ -1,0 +1,60 @@
+@media(min-width: 291px) and (max-width: 431px){
+       .start{
+              padding: 35px 25px;
+       }
+       .start2{
+              padding: 20px 25px;
+       }
+       .img2{
+              position: static;
+              width: 100%;
+              padding-top: 40px;
+              min-height: 210px;
+
+       }
+       .start3{
+              padding: 40px 5px;
+       }
+       .p3{
+              overflow: hidden;
+              padding:0px 10px;
+       }
+       br{
+              display: none;
+       }
+       .line1{
+              height: 350px;
+       }
+       .line2{
+              display: none;
+       }
+       .start4{
+              padding: 0px;
+       }
+       .start7{
+              padding:35px 5px;
+       }
+       .p6{
+              margin-bottom: 0px;
+       }
+       .p7{
+              position: static;
+              display: inline-block;
+              margin-top:0px;
+              margin-bottom: 10px;
+       }
+       input{
+              width: 80%;
+              
+       }
+       .button-end{
+              width: 45%;
+              margin: 15px 0px;
+       }
+       .start8{
+              padding: 0px;
+       }
+       .p8{
+              padding: 0px 20px;
+       }
+}

@@ -1,0 +1,158 @@
+@media(max-width: 690px){
+	.nav{
+		display: none;
+	}
+	select{
+		display: inline-block;
+		width: 70%;
+		margin: 10px 30px 10px 30px;
+		text-align: center;
+	}
+	select:active{
+		border-color: blue; 
+	}
+	.img1{
+		margin-top: 0px;
+	}
+	.start{
+		padding: 30px 50px;
+	}
+	.blue{
+		font-size: 50px;
+		font-weight: bold;
+	}
+	.p1{
+		font-size: 16px;
+	}
+	.start2{
+		padding: 30px 50px;
+		position: relative;
+	}
+	.img2{
+	    position: static;
+       	width: 100%;
+       	padding-top: 40px;
+       	min-height: 210px;
+
+	}
+	h3{
+		font-size: 30px;
+		font-weight: bold;
+		position: relative;
+		float: left;
+	}
+	.p2{
+		clear: both;
+		padding: 0;
+	}
+	.start3{
+		padding: 30px 50px;
+	}
+	.article{
+		z-index: 4;
+		position: relative; 
+		height: auto;
+		/*top: 250%;*/
+	}
+	.p3{
+		font-size: 15px;
+		overflow: auto;
+		position: relative;
+		top: 50%;
+		left: 10%;
+		padding: 15px;
+	}
+	.p4{
+		display: none;
+	}
+	.icon1{
+		font-size: 50px;
+		float: left;
+	}
+	.line1{
+		height: 200px;
+		float: left;
+		position: relative;
+		left: 5%;
+	}
+	.img{
+		position:relative;
+		height: auto;
+		z-index: 5;
+		height: 1400px;
+
+	}
+	.start4{
+		padding: 120px 50px;
+
+		/*position: relative;
+		top: 10%;*/
+	}
+	.img3 {
+		width: 100%;
+		padding-top: 20px;
+	}
+    .img4{
+    	width: 100%;
+    	padding-top: 20px;
+    }
+    .head{
+    	overflow: visible;
+    	padding-left: 0px;
+    	font-size: 25px;
+    	font-weight: 900;
+    	margin-top: 10px;
+
+    }
+    .p5{
+    	padding-right: 0px;
+    	position: relative;
+    }
+    br{
+    	display: none;
+    }
+    .start7{
+    	padding: 30px 50px;
+    }
+    .p6{
+    	display:block;
+    	padding: 0px;
+    	font-size: 30px;
+    }
+    .p7{
+        padding: 0px;	
+    }
+    input{
+    	position:relative;
+    	top: 20%;
+    	left: 0%;
+    	width: 70%;
+    }
+    .error{
+    	display: none;
+    }
+    .icon{
+        display: inline-block;
+    	position: static;
+    	font-size: 15px;
+    	text-align: center;
+    }
+    .p8{
+    	display: inline-block;
+    	margin: 0px;
+    	position: static;
+    	float: left;
+
+    }
+    .button-end{
+    	position: static;
+    	clear: both; 
+    	margin-top: 10px;
+    }
+    .start8{
+    	padding-left: 10px;
+    	text-align: center;
+    }
+	
+	
+}

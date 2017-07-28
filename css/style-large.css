@@ -1,0 +1,87 @@
+@media(min-width: 690px) and (max-width: 1365px){
+	.start{
+		padding:20px 40px; 
+	}
+	.blue{
+		font-size: 50px;
+		font-weight: 900;
+	}
+	.p1{
+		font-size: 15px;
+	}
+	.start2{
+		padding: 30px 40px;
+	}
+	 .img2{
+       	position: static;
+       	width: 50%;
+       	padding-top: 40px;
+       	min-height: 180px;
+
+       }
+	.start3{
+		padding: 30px 40px;
+	}
+	.start4{
+		padding: 30px 0px;
+		margin: 0 auto;
+	}
+	.head{
+		font-size: 30px;
+		font-weight: 900;
+
+	}
+	.start5{
+		position: static;
+		float: left;
+	}
+	.start6{
+		position: relative;
+		top: -60%;
+		right: -60%;
+	}
+	.img3{
+		width: 30%;
+	}
+	.img4{
+		width: 30%;
+        position: static;
+        float: left;
+	}
+	.end{
+		height: auto;
+	}
+	.start7{
+		clear: both;
+		padding: 30px 40px;
+	}
+	.error{
+		display: none;
+	}
+	.p6{
+		float: left;
+	}
+	.p7{
+		float: left;
+	}
+	input{
+		float: left;
+		width: 50%;
+		padding-left: 0px;
+	}
+	.start8{
+		padding: 10px 40px;
+		text-align: center;
+	}
+	.p8{
+		margin-right: 40px;
+		
+		position: static;
+		float: left;
+	}
+	.icon{
+		position: static;
+		float: left;
+		font-size: 15px;
+	}
+}
